@@ -1,0 +1,527 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"state",
+				"stateTransTimer"
+			],
+			[
+				"victor",
+				"victoryScreen"
+			],
+			[
+				"victo",
+				"victoryState"
+			],
+			[
+				"voice",
+				"voiceTimer"
+			],
+			[
+				"min",
+				"minVoiceTimer"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"check",
+				"checkX"
+			],
+			[
+				"gam",
+				"gameMusic"
+			],
+			[
+				"game",
+				"gameMusic"
+			],
+			[
+				"get",
+				"getWidth"
+			],
+			[
+				"pause",
+				"pauseScreen"
+			],
+			[
+				"pases",
+				"pauseScreen"
+			],
+			[
+				"light",
+				"lightStone"
+			],
+			[
+				"lights",
+				"lightStone"
+			],
+			[
+				"map",
+				"mapStr"
+			],
+			[
+				"hp",
+				"HP"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"prey",
+				"preyX"
+			],
+			[
+				"convert",
+				"convertLightStone"
+			],
+			[
+				"flash",
+				"flashlightAngle"
+			],
+			[
+				"fl",
+				"flashlightAngle"
+			],
+			[
+				"flashli",
+				"flashlightStyle"
+			],
+			[
+				"flas",
+				"flashLight"
+			],
+			[
+				"flashl",
+				"flashlightStr"
+			],
+			[
+				"player",
+				"playerX"
+			],
+			[
+				"dark",
+				"darknessLayer"
+			],
+			[
+				"pl",
+				"playerX"
+			],
+			[
+				"tile",
+				"tileWidth"
+			],
+			[
+				"quad",
+				"quad3Collision"
+			],
+			[
+				"qua",
+				"quad2Collision"
+			],
+			[
+				"cam",
+				"Camera"
+			],
+			[
+				"colli",
+				"collidable_tiles"
+			],
+			[
+				"load",
+				"loadMap"
+			],
+			[
+				"tiles",
+				"tileString"
+			],
+			[
+				"row",
+				"rowIndex"
+			],
+			[
+				"gamepa",
+				"gamepad_map"
+			],
+			[
+				"aim",
+				"aim_direction"
+			],
+			[
+				"hitsc",
+				"hitscan_gun"
+			],
+			[
+				"grap",
+				"love.graphics.draw"
+			],
+			[
+				"func",
+				"function	function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 26622,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"set sy l",
+				"Set Syntax: Lua"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"set sy love",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Games/thing_stopper/conf.lua",
+		"/D/Games/thing_stopper/maps/tmw_desert_spacing.png",
+		"/D/Games/thing_stopper/AdvTileLoader/Map.lua",
+		"/D/Games/thing_stopper/player.lua",
+		"/C/Users/Smosi/AppData/Roaming/Sublime Text 2/Packages/User/love.sublime-build",
+		"/D/Games/thing_stopper/assets/lab.png",
+		"/D/Games/thing_stopper/AdvTileLoader/Loader.lua",
+		"/D/Games/thing_stopper/mapFunctions.lua",
+		"/D/Games/thing_stopper/layers.lua",
+		"/D/Games/thing_stopper/playerEntity.lua",
+		"/D/Games/platfrommer/maps/map1.lua",
+		"/D/Games/platfrommer/mapFunctions.lua",
+		"/D/Games/geometry/assets/prototypes/actors/player.lua",
+		"/D/Games/geometry/components/collision.lua",
+		"/D/Games/geometry/systems/collision.lua",
+		"/D/Games/geometry/systems/brains/player.lua",
+		"/D/Games/geometry/systems/gun.lua",
+		"/D/Games/geometry/components/playerbrain.lua",
+		"/D/Games/geometry/systems/system.lua",
+		"/D/Games/geometry/systems/physics.lua",
+		"/D/Games/geometry/systems/audiomixer.lua",
+		"/D/Games/geometry/systems/bullet.lua",
+		"/D/Games/geometry/settings.lua",
+		"/D/Games/geometry/systems/renderers/laser.lua",
+		"/D/Games/geometry/lvls/simple2.lua",
+		"/D/Games/geometry/systems/input.lua",
+		"/D/Games/geometry/components/gun.lua",
+		"/D/Games/Geometry/systems/renderers/laser.lua",
+		"/D/Games/Geometry/settings.lua",
+		"/D/Games/Geometry/states/level.lua",
+		"/D/Games/Geometry/systems/input.lua",
+		"/D/Games/Geometry/lvls/simple2.lua",
+		"/D/Games/Geometry/systems/gun.lua",
+		"/C/Users/Smosi/Desktop/Call_of_Cthulhu.html",
+		"/D/Games/Geometry/components/gun.lua",
+		"/D/Games/Geometry/systems/guns/hitscan.lua",
+		"/D/Games/Geometry/systems/brains/player.lua",
+		"/D/Games/Geometry/utils/tween.lua",
+		"/D/Games/Geometry/components/guns/hitscan.lua",
+		"/D/Games/Geometry/systems/renderers/bbox.lua",
+		"/D/Games/Geometry/lib/hump/camera.lua",
+		"/D/Games/Geometry/systems/camera.lua",
+		"/D/Games/Geometry/renderers/guns/samus_cannon.moon",
+		"/D/Games/Geometry/loaders/level.lua",
+		"/D/Games/Geometry/main.lua",
+		"/D/Games/Geometry/systems/collision.lua",
+		"/D/Games/Geometry/entitymanager.lua",
+		"/D/Games/love2d Test/main.lua",
+		"/C/Users/Smosi/AppData/Roaming/Sublime Text 2/Packages/Lua Love/LuaLove.sublime-settings",
+		"/C/Users/Smosi/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/D/Games/love2d Test/newFolder/newfile.love",
+		"/C/Users/Smosi/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nextLevel",
+			"lightStone",
+			"math.angle",
+			"enem.",
+			"enem",
+			"enemy.y",
+			"enemy.x",
+			"enemy.y",
+			"enemy.x",
+			"tileHeight",
+			"tileWidth",
+			"source",
+			"self.y",
+			"self.x",
+			"self.",
+			"staticLights",
+			"print",
+			"visible",
+			"forceredraw",
+			"force",
+			":set",
+			"set",
+			"	\n",
+			"tileTable",
+			"Quads",
+			"Tileset",
+			"TileH",
+			"TileW",
+			"colIndex",
+			"rowIndex",
+			"	\n",
+			"is_sensor",
+			"'fire'",
+			"main_trigger",
+			"event_queue",
+			"listen_for",
+			"aim_x",
+			"aim_direction",
+			"main_trigger",
+			")\n",
+			"print",
+			"main_trigger",
+			"load_level",
+			"BBoxRenderer",
+			"end",
+			"Monday",
+			"Sunday",
+			".",
+			".\n",
+			"day"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.lua",
+					"settings":
+					{
+						"buffer_size": 26622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"simple",
+				"lvls/simple2.lua"
+			],
+			[
+				"simple2",
+				"lvls/simple2.lua"
+			],
+			[
+				"",
+				"systems/audiomixer.lua"
+			],
+			[
+				"audio",
+				"systems/audiomixer.lua"
+			],
+			[
+				"simpl",
+				"lvls/simple2.lua"
+			],
+			[
+				"laser",
+				"systems/renderers/laser.lua"
+			],
+			[
+				"brain",
+				"systems/brains/player.lua"
+			],
+			[
+				"setting",
+				"settings.lua"
+			],
+			[
+				"hitsca",
+				"systems/guns/hitscan.lua"
+			],
+			[
+				"level.lua",
+				"states/level.lua"
+			],
+			[
+				"colli",
+				"systems/collision.lua"
+			],
+			[
+				"bbo",
+				"systems/renderers/bbox.lua"
+			],
+			[
+				"states",
+				"states/level.lua"
+			],
+			[
+				"enti",
+				"entitymanager.lua"
+			],
+			[
+				"main",
+				"main.lua"
+			],
+			[
+				"main.lu",
+				"main.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Games/love2dTest.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 132.0,
+	"status_bar_visible": true
+}

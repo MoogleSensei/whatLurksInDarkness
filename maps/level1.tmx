@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="19" height="19" tilewidth="32" tileheight="32" nextobjectid="29">
+ <tileset firstgid="1" name="practiceTileset" tilewidth="32" tileheight="32">
+  <image source="../assets/practiceTileset.png" trans="ff0080" width="128" height="64"/>
+  <tile id="0">
+   <properties>
+    <property name="name" value="darkness"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="name" value="transparent"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="event" value="yes"/>
+    <property name="light" value="source"/>
+    <property name="light_distance" value="3"/>
+    <property name="name" value="detail"/>
+    <property name="solid" value="yes"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="name" value="floor"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="light" value="sink"/>
+    <property name="name" value="wall"/>
+    <property name="solid" value="yes"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="solid" value="yes"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="solid" value="yes"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Ground" width="19" height="19">
+  <data encoding="csv">
+6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+6,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,6,
+6,5,5,5,5,5,5,5,5,6,5,5,5,5,5,5,5,5,6,
+6,5,5,8,8,5,5,5,5,6,5,5,5,8,5,5,5,5,6,
+6,5,5,5,8,8,5,5,5,6,5,5,5,5,5,5,5,5,6,
+6,5,5,5,5,8,5,5,5,6,5,5,5,5,5,5,5,5,6,
+6,5,5,5,5,5,5,5,5,6,5,5,5,8,5,5,5,5,6,
+6,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,6,
+6,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,6,
+6,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,6,
+6,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,6,
+6,5,5,5,5,5,5,5,5,6,5,5,5,8,5,5,5,5,6,
+6,5,5,5,5,5,5,5,5,6,5,5,5,5,5,5,5,5,6,
+6,5,5,8,8,8,5,5,5,6,5,5,8,5,8,5,5,5,6,
+6,5,5,5,5,8,5,5,5,6,5,5,5,5,5,5,5,5,6,
+6,5,5,5,5,8,5,5,5,6,5,5,5,4,5,5,5,5,6,
+6,5,5,5,5,5,5,5,5,6,5,5,5,5,5,5,5,5,6,
+6,5,5,5,5,5,5,5,5,6,5,5,5,5,5,5,5,5,6,
+6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+</data>
+ </layer>
+ <objectgroup name="Objects">
+  <object id="20" name="Player" x="527" y="80"/>
+  <object id="22" name="Light Stone" x="128" y="448" width="32" height="32"/>
+  <object id="28" name="Light Stone" x="192" y="32" width="32" height="32"/>
+ </objectgroup>
+ <layer name="Darkness" width="19" height="19" opacity="0.86">
+  <data encoding="csv">
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+</data>
+ </layer>
+</map>
